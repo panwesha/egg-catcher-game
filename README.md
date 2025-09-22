@@ -3,7 +3,7 @@
 
 A 2D arcade game developed in Python as part of Stanford University's Code in Place program (2025).  
 
-![Game Screenshot](Screenshot .png)
+![Game Screenshot](Screenshot.png)
 
 ## Features
 - Interactive graphics with scoring system  
